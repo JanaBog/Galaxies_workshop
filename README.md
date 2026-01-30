@@ -26,22 +26,22 @@ Free, self-contained digital investigation packs for high-school students, using
 * Vera C. Rubin Observatory Education Investigations
 https://rubinobservatory.org/education/educators
 
-## Inquiry-based investigations that introduce survey science concepts through simulations, visualisations, and curated datasets.
+Inquiry-based investigations that introduce survey science concepts through simulations, visualisations, and curated datasets.
 
-* Data Sources and Context
+## Data Sources and Context
 
-Sloan Digital Sky Survey (SDSS)
+* Sloan Digital Sky Survey (SDSS)
 https://www.sdss.org/education/
 
-## Background information and educational resources related to the survey used in this module.
+Background information and educational resources related to the survey used in this module.
 
-*SINGS/KINGFISH Nearby Galaxy Sample
+* SINGS/KINGFISH Nearby Galaxy Sample
 Dale et al. (2017), ApJ, 837, 90
 https://ui.adsabs.harvard.edu/abs/2017ApJ...837...90D
 
-## Nearby, well-resolved galaxies that can be used for visual calibration before working with more distant survey images.
+Nearby, well-resolved galaxies that can be used for visual calibration before working with more distant survey images.
 
-*Galaxy Zoo
+* Galaxy Zoo
 https://www.zooniverse.org/projects/zookeeper/galaxy-zoo
 
 A citizen-science project based on visual galaxy classification, useful for discussions of morphology, ambiguity, and comparison with automated methods.
